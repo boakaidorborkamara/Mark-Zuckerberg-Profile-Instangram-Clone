@@ -1,2 +1,2 @@
-# My-Instangram-Clone
+# My-Instagram-Clone
 A clone of my Instagram page
